@@ -16,3 +16,6 @@ I have extensive Research and Practical experience in Applied Machine Learning, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifurRR&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SaifurRR)
