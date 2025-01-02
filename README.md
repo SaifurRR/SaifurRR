@@ -14,7 +14,6 @@ I have extensive Research and Practical experience in Applied Machine Learning, 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaifurRR&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifurRR&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SaifurRR&theme=dark)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
