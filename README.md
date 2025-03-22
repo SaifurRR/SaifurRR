@@ -18,4 +18,4 @@ I have extensive Research and Practical experience in **Applied Machine Learning
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SaifurRR)
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SaifurRR) -->
