@@ -1,9 +1,22 @@
-# 💫 Professional Experience: 
-I have extensive Research and Practical experience in **Applied Machine Learning**, **Algorithm Development**, **Natural Language Processing**, **Deep Learning**, **Computer Vision**, **Digital/Embedded System Data Acquisition (DAQ)**, and **Digital Signal Processing** which includes:
-### Industrial Experience:   
-□ Semantic Risk Analysis using Large Language Model (LLM), Computer Vision (CV), Deep Learning; Knowledge Graph use cases in Cybersecurity and query Big data from Graph Database (Neo4j) and mitigate Supply Chain Attacks using Visual Language Models (VLM);<br>Python Frameworks (TensorFlow, Keras, PyTorch, OpenCV, NLTK, XGBoost, MxNet, Theano, CNTK).<br><br>□ Cosmic Ray Muon (CRM) Data Analysis using Python3 (Pandas, Numpy, Matplotlib, Seaborn, SciPy), work on Reconstruction Algorithm (C++), write Production level codes using Python3; Quality Assurance (QA) check of CRM Detectors.<br><br>□ Using Matlab, Python, and SOTA ML Algorithms to Identify Patterns and Anomalies in Electronic Health Records (EHR), Automate Emergency Signaling in the Hospital ICU (Intensive Care Unit), and use RNN, LSTM and Digital Signal Processing to analyze Time Series Medical Data.<br><br>□ Classify Acoustic Signals to Identify Defects and Discrepancies, and Map Physical structures for in-depth analysis, using Matlab, Simulink, and Python. 
+# 💫 Professional Experience:
+S. Rahman has extensive research and practical experience in **Applied Machine Learning**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Agentic AI**, **Communication Networks**, **Data Acquisition (DAQ)**, and **Signal Processing**, which includes:
+
+### Industrial Experience:
+□ Owning end-to-end Computer Vision models (U-Net, ResNet), using transfer learning and Transformer fine-tuning on multi-terabyte datasets, deployed on HPC clusters on the Cloud Platforms.<br><br>
+□ Performing Semantic Risk Analysis in Cybersecurity using LLMs, Transformer models (BERT, GPT), Knowledge Graphs (Neo4j), and Agentic AI, and mitigating Supply Chain Attacks using Visual Language Models (VLMs).<br><br>
+□ Analyzing Cosmic Ray Muon (CRM) data in Python, integrate reconstruction algorithms in C++, and performing Quality Control (QC) of CRM detectors.<br><br>
+□ Identifying patterns and anomalies in Electronic Health Records (EHR), automating emergency signaling in hospital ICUs, and analyzing time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).
+□ Classifying acoustic signals to identify defects and discrepancies, and mapping physical structures for in-depth analysis using MATLAB, Simulink, and Python.<br>
+
 ### Research & Academic Experience:
-□ Applying Supervised ML (Regression, Decision Tree, Random Forest, KNN) in Predictive Analytics and Unsupervised ML (Apriori algorithm, K-means) in finding Trends, and Monte Carlo Simulation of Complex Systems.<br>□ Performing Data Analysis, Transformation, Exploration, Modeling, and Evaluation to provide -> Actionable Insights and deploy and Maintain Data Pipelines.<br>□ Training models, running Experiments, building ML- pipelines, and defining Measurements and Metrics.<br>□ Feature Engineering of raw data into a format suitable for ML models.<br>□ Tuning hyperparameters to optimize the ML model.<br>□ Implementing Natural Language Processing (NLP) techniques such as Text Preprocessing, Sentiment Analysis, Named Entity Recognition (NER), Topic Modeling, and Text Classification to extract insights from unstructured data.<br>□ Fine-tuning and deploying Large Language Models (LLMs) (e.g., GPT, BERT, LLaMA) for tasks such as Chatbots, Text Summarization, Q&A systems, and Document Analysis.<br> □ Performing Big Data Query to extract data from large datasets, ETL (Extract, Transform, and Load) data from Databases, and use Apache Spark for HPC (High-Performance Computing).<br>□ Deploy ML models in Cloud Platforms: AWS, Azure, GCP, and Containerization using Docker.<br>□ Creating Dashboard Visualizations and Reports in PowerBI, and Tableau.<br>□ Project Management & Task Tracking in Trello, Jira & Notion.<br>
+□ Researching Wireless Communication Systems, 5G, and Information & Coding Theory at UBC's Communication Theory Lab.<br>
+□ Classifying acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB, Simulink, and Python.<br>
+□ Researching Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
+□ Applying Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
+□ Performing feature engineering, model training, hyperparameter tuning, and evaluation, and building ML pipelines.<br>
+□ Running big data queries, ETL processes, and Apache Spark for large-scale data processing.<br>
+□ Deploying ML models on AWS, Azure, and GCP, with Docker containerization.<br>
+□ Creating dashboards and reports in Power BI and Tableau, and tracking projects in Jira, Trello, and Notion.
 
 # 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur-rahman-9059b2b3/) 
