@@ -2,21 +2,21 @@
 S. Rahman has extensive research and practical experience in **Applied Machine Learning**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Agentic AI**, **Communication Networks**, **Data Acquisition (DAQ)**, and **Signal Processing**, which includes:
 
 ### Industrial Experience:
-□ Owning end-to-end Computer Vision models (U-Net, ResNet), using transfer learning and Transformer fine-tuning on multi-terabyte datasets, deployed on HPC clusters on the Cloud Platforms.<br><br>
-□ Performing Semantic Risk Analysis in Cybersecurity using LLMs, Transformer models (BERT, GPT), Knowledge Graphs (Neo4j), and Agentic AI, and mitigating Supply Chain Attacks using Visual Language Models (VLMs).<br><br>
-□ Analyzing Cosmic Ray Muon (CRM) data in Python, integrate reconstruction algorithms in C++, and performing Quality Control (QC) of CRM detectors.<br><br>
-□ Identifying patterns and anomalies in Electronic Health Records (EHR), automating emergency signaling in hospital ICUs, and analyzing time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).<br><br>
-□ Classifying acoustic signals to identify defects and discrepancies, and mapping physical structures for in-depth analysis using MATLAB, Simulink, and Python.<br>
+□ Owned end-to-end Computer Vision models (U-Net, ResNet), using transfer learning and Transformer fine-tuning on multi-terabyte datasets, deployed on HPC clusters on the Cloud Platforms.<br><br>
+□ Performed Semantic Risk Analysis in Cybersecurity using LLMs, Transformer models (BERT, GPT), Knowledge Graphs (Neo4j), and Agentic AI, and mitigated Supply Chain Attacks using Visual Language Models (VLMs).<br><br>
+□ Analyzed Cosmic Ray Muon (CRM) data in Python, integrated reconstruction algorithms in C++, and performed Quality Control (QC) of CRM detectors.<br><br>
+□ Identified patterns and anomalies in Electronic Health Records (EHR), automated emergency signaling in hospital ICUs, and analyzed time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).<br><br>
+□ Classified acoustic signals to identify defects and discrepancies, and mapped physical structures for in-depth analysis using MATLAB, Simulink, and Python.<br>
 
 ### Research & Academic Experience:
-□ Researching Wireless Communication Systems, 5G, and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
-□ Classifying acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB, Simulink, and Python.<br>
-□ Researching Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
-□ Applying Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
-□ Performing feature engineering, model training, hyperparameter tuning, and evaluation, and building ML pipelines.<br>
-□ Running big data queries, ETL processes, and Apache Spark for large-scale data processing.<br>
-□ Deploying ML models on AWS, Azure, and GCP, with Docker containerization.<br>
-□ Creating dashboards and reports in Power BI and Tableau, and tracking projects in Jira, Trello, and Notion.
+□ Researched Wireless Communication Systems, 5G, and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
+□ Classified acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB, Simulink, and Python.<br>
+□ Researched Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
+□ Applied Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
+□ Performed feature engineering, model training, hyperparameter tuning, and evaluation, and built ML pipelines.<br>
+□ Ran big data queries, ETL processes, and Apache Spark for large-scale data processing.<br>
+□ Deployed ML models on AWS, Azure, and GCP, with Docker containerization.<br>
+□ Created dashboards and reports in Power BI and Tableau, and tracked projects in Jira, Trello, and Notion.
 
 # 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur-rahman-9059b2b3/) 
