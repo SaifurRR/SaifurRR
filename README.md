@@ -6,11 +6,10 @@ S. Rahman has extensive research and practical experience in **Applied Machine L
 □ Performed Semantic Risk Analysis in Cybersecurity using LLMs, Transformer models (BERT, GPT), Knowledge Graphs (Neo4j), and Agentic AI, and mitigated Supply Chain Attacks using Visual Language Models (VLMs).<br><br>
 □ Analyzed Cosmic Ray Muon (CRM) data in Python, integrated reconstruction algorithms in C++, and performed Quality Control (QC) of CRM detectors.<br><br>
 □ Identified patterns and anomalies in Electronic Health Records (EHR), automated emergency signaling in hospital ICUs, and analyzed time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).<br><br>
-□ Classified acoustic signals to identify defects and discrepancies, and mapped physical structures for in-depth analysis using MATLAB, Simulink, and Python.<br>
+□ Classified acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB, Simulink, and Python.<br>
 
 ### Research & Academic Experience:
 □ Researched Wireless Communication Systems, 5G, and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
-□ Classified acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB, Simulink, and Python.<br>
 □ Researched Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
 □ Applied Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
 □ Performed feature engineering, model training, hyperparameter tuning, and evaluation, and built ML pipelines.<br>
