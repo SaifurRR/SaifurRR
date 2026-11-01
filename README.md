@@ -1,5 +1,5 @@
 # 💫 Professional Experience:
-S. Rahman has extensive research and practical experience in **Applied Machine Learning**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Agentic AI**, **Communication Networks**, **Data Acquisition (DAQ)**, and **Signal Processing**, which includes:
+S. Rahman has extensive research and practical experience in **Applied Machine Learning**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Agentic AI**, **Communication Networks**, **Sensor Data Acquisition (DAQ)**, and **Signal Processing**, which includes:
 
 ### Industrial Experience:
 □ Owned end-to-end Computer Vision models (U-Net, ResNet), used techniques such as transfer learning; Transformer fine-tuning on multi-terabyte datasets, and deployed models on HPC clusters on Cloud platforms.<br><br>
