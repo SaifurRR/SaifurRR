@@ -5,7 +5,7 @@ S. Rahman has extensive research and practical experience in **Applied Machine L
 □ Owned end-to-end Computer Vision models (U-Net, ResNet), used techniques such as transfer learning; Transformer fine-tuning on multi-terabyte datasets, and deployed models on HPC clusters on Cloud platforms.<br><br>
 □ Performed Semantic Risk Analysis in Cybersecurity using LLMs, Transformer models (BERT, GPT), Knowledge Graphs (Neo4j), and Agentic AI, and mitigated Supply Chain Attacks using Visual Language Models (VLMs).<br><br>
 □ Analyzed Cosmic Ray Muon (CRM) data in Python, integrated reconstruction algorithms in C++, and performed Quality Control (QC) of CRM detectors.<br><br>
-□ Identified patterns and anomalies in Electronic Health Records (EHR) using MATLAB, automated emergency signaling in hospital ICUs, and analyzed time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).<br><br>
+□ Identified patterns and anomalies in Electronic Health Records (EHR) using MATLAB, automated emergency signaling in hospital ICUs, and analyzed Time-series medical data with RNNs, LSTMs, and Digital Signal Processing (DSP).<br><br>
 □ Classified acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB and Simulink.<br>
 
 ### Research & Academic Experience:
