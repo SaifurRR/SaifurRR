@@ -9,7 +9,7 @@ S. Rahman has extensive research and practical experience in **Applied Machine L
 □ Classified acoustic signals to detect gas pipeline defects using Signal Processing and Machine Learning in MATLAB and Simulink.<br>
 
 ### Research & Academic Experience:
-□ Researched Wireless Communication Systems, 5G, and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
+□ Researched Guided-Wave Ultrasonic Sensing & Imaging and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
 □ Researched Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
 □ Applied Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
 □ Performed feature engineering, model training, hyperparameter tuning, and evaluation, and built ML pipelines.<br>
