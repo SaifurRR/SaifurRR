@@ -11,7 +11,7 @@ S. Rahman has extensive research and practical experience in **Applied Machine L
 ### Research & Academic Experience:
 □ Researched Guided-Wave Ultrasonic Sensing & Imaging and Information & Coding Theory at UBC's Communication Theory Lab (CTL).<br>
 □ Researched Multi-Agent Systems and agent communication protocols (A2A, MCP).<br>
-□ Applied Supervised ML (Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
+□ Applied Supervised ML (e.g., Regression, Decision Trees, Random Forest, KNN), Unsupervised ML (e.g., Apriori, K-means), and Monte Carlo simulation of complex systems.<br>
 □ Performed feature engineering, model training, hyperparameter tuning, and evaluation, and built ML pipelines.<br>
 □ Ran big data queries, ETL processes, and Apache Spark for large-scale data processing.<br>
 □ Deployed ML models on AWS, Azure, and GCP, with Docker containerization.<br>
